@@ -72,13 +72,13 @@
 
   ![Testimonial Slider](./Screenshots/54.%20Testimonial%20Slider.png)
 
-- ## _Click To Tweet_
+- ## _Tweet Character Count_
 
-  ![Click Tweet](./Screenshots/55.%20Click%20To%20Tweet.png)
+  ![Tweet Character](./Screenshots/55.%20Tweet%20Character%20Count.png)
 
-- ## _Embed Twitter Timeline_
+- ## _Click To Tweet & Embed Twitter Timeline_
 
-  ![Twitter Timeline](./Screenshots/56.%20Embed%20Twitter%20Timeline.png)
+  ![Tweet Timeline](./Screenshots/56.%20Click%20To%20Tweet%20&%20Embed%20Twitter%20Timeline.png)
 
 - ## _Product Gallery With Thumbnail_
 
